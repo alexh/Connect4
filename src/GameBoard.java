@@ -112,6 +112,7 @@ public class GameBoard extends JPanel {
         g.setColor(new Color(209, 173, 0));
         g.fillRect(30, 130, 670, 20);
         
+        
 
         // Drawing Cell Lines
 
